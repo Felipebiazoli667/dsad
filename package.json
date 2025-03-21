@@ -1,0 +1,14 @@
+{
+  "name": "meus-poemas",
+  "version": "1.0.0",
+  "description": "Site interativo para postar, editar e excluir poemas com Node.js, Express e SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.2"
+  }
+}
